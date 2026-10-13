@@ -5,4 +5,5 @@ logs/
 vendorinventory.db
 .ipynb_checkpoints/
 .vscode/
-data/*.csv
+data/purchases.csv
+data/sales.csv
